@@ -1,0 +1,20 @@
+{
+  "name": "music-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs-mate": "^2.3.0",
+    "express": "^4.14.0",
+    "optimist": "^0.6.1",
+    "policyfile": "0.0.5",
+    "portfinder": "^1.0.3",
+    "randomstring": "^1.1.5",
+    "ws": "^1.1.1"
+  }
+}
